@@ -1,0 +1,37 @@
+Acaricida
+Bactericida
+Espalhante Adesivo
+Fungicida
+Estimulante
+Herbicida
+Inseticida
+Adjuvante
+Regulador de Crescimento
+Outros
+Feromônio
+Moluscicida
+Ativador de Plantas
+Protetor de Sementes
+Nematicid
+Acaricida Biológico
+Agente Biológico de Controle
+Cairomônio Sintético
+Cupinicida
+Desfolhante
+Espalhante Adjuvante
+Feromônio Sintético
+Formicida
+Fungicida Biológico
+Fungicida Microbiológico
+Inseticida Biológico
+Inseticida Fumigante
+Inseticida Microbiológico
+Acaricida Inseticida
+Inseticida Nematicida
+Lesmicida
+Nematicida
+Nematicida Biológico
+Raticida
+Nematicida Microbiológico
+Acaricida Microbiológico
+Bactericida Microbiológico
